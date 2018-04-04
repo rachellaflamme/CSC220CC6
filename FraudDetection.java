@@ -1,6 +1,7 @@
 import java.util.*;
 import java.lang.*;
 
+
 public class FraudDetection{
         /**
         * A function that flags multiple transactions that are over $20000 by the same user
